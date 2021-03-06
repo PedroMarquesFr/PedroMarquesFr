@@ -24,6 +24,16 @@ Here are some ideas to get you started:
 <span><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></span> 
 <span><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></span> 
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+Markdown     1 hr 15 mins    █████████░░░░░░░░░░░░░░░░   36.17 % 
+JavaScript   1 hr 5 mins     ███████▓░░░░░░░░░░░░░░░░░   31.07 % 
+JSON         1 hr 1 min      ███████▒░░░░░░░░░░░░░░░░░   29.25 % 
+C++          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+```
+<!--END_SECTION:waka-->
 <!---- [Website](https://portfoliopp.vercel.app/) 💻 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... learning to be a fullStack
