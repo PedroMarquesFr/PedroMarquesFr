@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there, I'm [Pedro! 👋](https://portfoliopp.vercel.app/)
 
-[![My Site Badge](https://img.shields.io/badge/-Visit%20%20my%20site!-black?style=for-the-badge&logo=vercel&link=https://portfoliopp.vercel.app/)](https://portfoliopp.vercel.app/)
+[![My Site Badge](https://img.shields.io/badge/-Visit%20%20my%20site!-61DAFB?style=for-the-badge&logo=vercel&link=https://portfoliopp.vercel.app/)](https://portfoliopp.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/pedro-marques-4a8609182/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:pedromarques1011@gmail.com)
 <!---[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos)
