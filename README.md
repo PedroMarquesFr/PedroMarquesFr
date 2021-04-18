@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 -->
 **About me**
-* I'm a *frontend* developer focused on React ⚛️
+* I'm a *FullStack* developer focused on React ⚛️
 * My main goal is to become a FullStack Beast! 🔭
 * Programing took me out of depression ❤️
 
