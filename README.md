@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 **About me**
 * I'm a *FullStack* developer 💻
-* Programing took me out of depression ❤️
+* [Herbs.js](https://herbsjs.org/) contributor 🌿
 
 **Languages and Tools:**  
 
