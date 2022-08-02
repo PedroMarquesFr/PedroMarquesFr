@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 -->
 **About me**
-* I'm a *FullStack* developer 💻
-* [Herbs.js](https://herbsjs.org/) contributor 🌿
+* I'm a *FullStack* Developer 💻
+* [Herbs.js](https://herbsjs.org/) Contributor 🌿
 
 **Languages and Tools:**  
 
