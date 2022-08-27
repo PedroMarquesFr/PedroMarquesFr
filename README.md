@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 **About Me**
 * I'm a *FullStack* Developer 💻
 * [Herbs.js](https://herbsjs.org/) Contributor 🌿
-* I use daily: `.js`, `.cs`, `.html`, `.css` ⚙️
+* I Use Daily: `.js`, `.cs`, `.html`, `.css` ⚙️
 
 **Languages and Tools:**
 
