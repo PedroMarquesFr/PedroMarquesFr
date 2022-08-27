@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 
 **Contact:**
-<br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/pedro-marques-4a8609182/)
 
 <!--END_SECTION:waka-->
