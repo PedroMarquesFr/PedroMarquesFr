@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 * I'm a *FullStack* Developer 💻
 * [Herbs.js](https://herbsjs.org/) Contributor 🌿
 
-**Languages and Tools:**  
+**Languages and Tools:**
+
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![csharp](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
@@ -23,7 +24,9 @@ Here are some ideas to get you started:
 ![mysql](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
 ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 <br>
+
 **Contact:**
+<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/pedro-marques-4a8609182/)
 
 <!--END_SECTION:waka-->
