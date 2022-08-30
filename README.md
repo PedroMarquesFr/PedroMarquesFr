@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 -->
 **About Me**
-* I'm a *FullStack* Developer 💻
-* [Herbs.js](https://herbsjs.org/) Contributor 🌿
-* I Use Daily: `.js`, `.cs`, `.html`, `.css` ⚙️
+* 💻 I'm a *FullStack* Developer
+* 🌿 [Herbs.js](https://herbsjs.org/) Contributor
+* ⚙️ I Use Daily: `.js`, `.cs`, `.html`, `.css`
 
 **Languages and Tools:**
 
