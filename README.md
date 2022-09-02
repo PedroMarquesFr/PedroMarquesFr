@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 **About Me**
 * 💻 I'm a *FullStack* Developer
-* 🌿 [Herbs.js](https://herbsjs.org/) OpenSource Contributor
+* 🌿 I'm a [Herbs.js](https://herbsjs.org/) OpenSource Contributor
 * ⚙️ I use daily: `.js`, `.cs`, `.html`, `.css`
 
 **Languages and Tools:**
