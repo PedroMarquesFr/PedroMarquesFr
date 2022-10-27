@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 * 🌿 I'm a [Herbs.js](https://herbsjs.org/) OpenSource Contributor
 * ⚙️ I use daily: `.js`, `.cs`, `.html`, `.css`
 
-**Languages and Tools:**
+**Languages and Tools: **
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
