@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 -->
 **About Me**
-* 💻 I'm a *FullStack* Developer focused on *FrontEnd*
+* 💻 I'm a *FullStack* Developer focused on *FrontEnd* with 3 years of experience
 * 🌿 I'm a [Herbs.js](https://herbsjs.org/) OpenSource Contributor
 * ⚙️ I use daily: `.js`, `.cs`, `.html`, `.css`
 
